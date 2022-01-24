@@ -1,0 +1,28 @@
+body{
+    background-color: grey;
+}
+.sep{
+    height: 50px;
+}
+.jumbotron{
+    background-image: url("https://hips.hearstapps.com/ame-prod-menshealth-assets.s3.amazonaws.com/main/assets/MH1016_FEA_WIL_04.jpg?resize=480:*");
+    color: white;
+    
+}
+h1{
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+p{
+    font-size: 60px;
+}
+.navy{
+    margin: 0 0 50 0;
+}
+.navy li a{
+    
+    color: white !important;
+}
+.nav>li>a:hover {
+    background-color: rgb(100, 92, 92);
+  }

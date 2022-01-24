@@ -4,15 +4,24 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Bellybutton Biodiversity</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
+  <div class = "navy" ><ul class="nav nav-pills navbar-fixed-top">
+    <li role="presentation" ><a href="#bar">Bacteria Barchart</a></li>
+    <li role="presentation"><a href="#gauge"> Frequency Gauge</a></li>
+    <li role="presentation"><a href="#bubble">Bacteria Bubble</a></li>
+  </ul></div>
+  
 
   <div class="container">
     <div class="row">
       <div class="col-md-12 jumbotron text-center">
         <h1>Belly Button Biodiversity Dashboard</h1>
-        <p>Use the interactive charts below to explore the dataset</p>
+        <br>
+
+        <strong><p>Use the interactive charts below to explore the dataset</p></strong>
       </div>
     </div>
     <div class="row">
@@ -36,6 +45,7 @@
         <div id="gauge"></div>
       </div>
     </div>
+    <div class="sep"></div>
     <div class="row">
       <div class="col-md-12">
         <div id="bubble"></div>
@@ -45,7 +55,7 @@
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-  <script src="plots.js"></script>
+  <script src="charts.js"></script>
 
 </body>
 
