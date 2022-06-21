@@ -9,3 +9,8 @@ The dashboard was further improved with some stylistic decisions: analagous colo
   * PLotly
 * Gitpages
 
+### Examples of Dashboard filtered by participant ID:
+![Dashboard top](https://github.com/manBow1119/belly-button-biodiversity/blob/main/Dashboard_top.png)
+
+![Dashboard bottom](https://github.com/manBow1119/belly-button-biodiversity/blob/main/Dashboard_bottom.png)
+
