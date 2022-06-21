@@ -4,6 +4,8 @@ The dashboard was further improved with some stylistic decisions: analagous colo
 
 ### Technologies
 * HTML, CSS, JavaScript, Bootstrap
-* D3
-* Item 2a
-* Item 2b
+* JavaScript libraries:
+  * D3
+  * PLotly
+* Gitpages
+
